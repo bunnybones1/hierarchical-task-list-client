@@ -1,0 +1,30 @@
+{
+  "name": "hierarchical-task-list-client",
+  "version": "1.0.0",
+  "description": "The front-end client for hierarchical-task-list-app.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "task",
+    "list",
+    "todo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/hierarchical-task-list-client.git"
+  },
+  "homepage": "https://github.com/bunnybones1/hierarchical-task-list-client",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/hierarchical-task-list-client/issues"
+  }
+}
