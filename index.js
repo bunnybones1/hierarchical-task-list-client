@@ -1,4 +1,7 @@
 module.exports = function() {
-	console.log('start db server');
-	console.log('start client server');
+	console.log('show ui');
+	console.log('connect to the app');
+	console.log('load tasks');
+	console.log('modify tasks');
+	console.log('save tasks');
 }

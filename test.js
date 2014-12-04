@@ -1,4 +1,4 @@
-var app = require('./');
+var client = require('./');
 
 console.log('testing');
-app();
+client();

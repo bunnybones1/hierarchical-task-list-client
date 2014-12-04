@@ -4,6 +4,8 @@
 
 The front-end client for hierarchical-task-list-app.
 
+Testing is done with beefy so be sure you have beefy and browserify globally installed or it will silently fail!
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/hierarchical-task-list-client.png)](https://nodei.co/npm/hierarchical-task-list-client/)
